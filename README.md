@@ -1,8 +1,8 @@
- # CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
-## AIM
-    To Create an Account in AWS Set up a Root user and an IAM user.
-## PROBLEM STATEMENT
-    Explain about the Experiment.
+# CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
+## AIM:
+   To Create an Account in AWS Set up a Root user and an IAM user.
+## PROBLEM STATEMENT:
+   Explain about the Experiment.
 
 ## ALGORITHM
  ### Step 1:
